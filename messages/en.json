@@ -1,0 +1,37 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "search": "Search",
+    "close": "Close",
+    "more": "More"
+  },
+  "navigation": {
+    "home": "Home",
+    "attractions": "Attractions",
+    "courses": "Courses",
+    "map": "Map",
+    "about": "About"
+  },
+  "home": {
+    "title": "Gyeongju Tourism Guide",
+    "subtitle": "Discover the beautiful cultural heritage of Gyeongju, the ancient capital",
+    "featuredAttractions": "Featured Attractions",
+    "popularCourses": "Popular Courses"
+  },
+  "attractions": {
+    "title": "Gyeongju Attractions",
+    "searchPlaceholder": "Search attractions",
+    "category": "Category",
+    "distance": "Distance",
+    "viewDetails": "View Details"
+  },
+  "footer": {
+    "dataSource": "Data Source",
+    "tourApi": "Korea Tourism Organization TourAPI",
+    "kakaoApi": "Kakao API",
+    "license": "Korea Open Government License Type 1",
+    "copyright": "This work uses 'Tourism Information Service' created by 'Korea Tourism Organization' in '2024' and released under Korea Open Government License Type 1. The work is available for free download at 'Korea Tourism Organization website (visitkorea.or.kr)'."
+  }
+}
