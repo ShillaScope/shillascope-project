@@ -1,0 +1,37 @@
+{
+  "common": {
+    "loading": "로딩 중...",
+    "error": "오류가 발생했습니다",
+    "retry": "다시 시도",
+    "search": "검색",
+    "close": "닫기",
+    "more": "더보기"
+  },
+  "navigation": {
+    "home": "홈",
+    "attractions": "관광지",
+    "courses": "코스",
+    "map": "지도",
+    "about": "소개"
+  },
+  "home": {
+    "title": "경주 관광 가이드",
+    "subtitle": "천년 고도 경주의 아름다운 문화유산을 만나보세요",
+    "featuredAttractions": "주요 관광지",
+    "popularCourses": "인기 코스"
+  },
+  "attractions": {
+    "title": "경주 관광지",
+    "searchPlaceholder": "관광지를 검색하세요",
+    "category": "카테고리",
+    "distance": "거리",
+    "viewDetails": "상세보기"
+  },
+  "footer": {
+    "dataSource": "데이터 출처",
+    "tourApi": "한국관광공사 TourAPI",
+    "kakaoApi": "카카오 API",
+    "license": "공공누리 제1유형",
+    "copyright": "본 저작물은 '한국관광공사'에서 '2024년' 작성하여 공공누리 제1유형으로 개방한 '관광정보서비스'를 이용하였으며, 해당 저작물은 '한국관광공사 홈페이지(visitkorea.or.kr)'에서 무료로 다운받으실 수 있습니다."
+  }
+}
